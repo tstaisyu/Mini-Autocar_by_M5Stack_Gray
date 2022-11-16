@@ -1,6 +1,6 @@
 # M5Stack Grayを使った障害物回避・段差検知をするミニカーのサンプルコード
 
-![](https://github.com/tstaisyu/Mini-Autocar_by_M5Stack_Gray/IMG_9558.jpg "Mini-Autocar by M5Stack Gray")
+![](https://github.com/tstaisyu/Mini-Autocar_by_M5Stack_Gray/blob/main/img/IMG_9558.jpg "Mini-Autocar by M5Stack Gray")
 
 * M5Stack Grayを使って、障害物回避・段差検知を行う自律移動型のミニカーのコードです。
 

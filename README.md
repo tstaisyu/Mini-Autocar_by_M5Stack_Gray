@@ -1,4 +1,4 @@
-# M5Stack Grayを使った障害物回避・段差検知をするミニカーのサンプルコード
+# M5Stack Grayを使ったミニカーのサンプルコード
 
 <img src="https://github.com/tstaisyu/Mini-Autocar_by_M5Stack_Gray/blob/main/img/IMG_9558.jpg" width="320px" title="Mini-Autocar by M5Stack Gray">
 
